@@ -11,6 +11,6 @@ linked here.
  - Install Apache webserver
  - Clone repository to webserver.
    - /var/www
-   - /var/www/htmll
+   - /var/www/html
  - Open browser and visit X.X.X.X/agile.html
  - Enjoy!
