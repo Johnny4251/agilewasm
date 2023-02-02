@@ -1,5 +1,5 @@
 # agilewasm
-For Project Management class
+For Project Management class. Simple project designed to learn the basics of Scrum and agile methodologies. 
 
 # Description
 In this project our group was assigned to use agile methods to develop and create
