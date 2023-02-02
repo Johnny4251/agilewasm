@@ -10,5 +10,5 @@ linked here.
 # To Run
  - Install Apache webserver
  - Clone repository to /var/www/html
- - Open browser and visit X.X.X.X/agile/agile.html
+ - Open browser and visit X.X.X.X/agile.html
  - Enjoy!
